@@ -16,7 +16,7 @@ export const slides: SlideData[] = [
     subtitle: "Your First Transfer",
     content: [
       "Showcase: A Mobile App using Hedera for Student Registration.",
-      "Practical: Writing a script to transfer HBAR between accounts on the Testnet."
+      "Practical: Creating a Topic ID, submitting messages, and verifying consensus on the Testnet."
     ],
     visual: "hero"
   },
@@ -64,7 +64,7 @@ export const slides: SlideData[] = [
       "• Data conflicts happen",
       "• Fraud becomes easier",
       "• Systems lose trust",
-      "• Double spending may occur"
+      "• Data tampering may occur"
     ],
     visual: "none"
   },
@@ -170,7 +170,7 @@ export const slides: SlideData[] = [
     content: [
       "Applications submit Messages.",
       "Examples of messages:",
-      "• Payments",
+      "• Supply Chain Updates",
       "• System Events",
       "• Application Logs",
       "• AI actions",
@@ -236,8 +236,8 @@ export const slides: SlideData[] = [
     title: "Why Timestamps Matter",
     content: [
       "Timestamps are absolutely critical for:",
-      "• Trading systems",
-      "• Financial Payments",
+      "• Decentralized Identity",
+      "• Audit Trails",
       "• AI Agent Decisions",
       "• Legal audit systems",
       "• Supply chains"
@@ -389,8 +389,8 @@ export const slides: SlideData[] = [
       "• Showcase: Student Registration App via Hedera",
       "• Environment Setup & Hedera SDK",
       "• Creating Testnet Accounts",
-      "• Writing a script to transfer HBAR",
-      "• Verifying the transaction on the network"
+      "• Creating a Topic ID & Submitting Messages",
+      "• Verifying consensus via Mirror Nodes"
     ],
     visual: "hero"
   },
